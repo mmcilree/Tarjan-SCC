@@ -1,2 +1,4 @@
 # Tarjan-SCC
-A python implementation of Tarjan's strongly connected components algorithm.
+A Python implementation of Tarjan's strongly connected components algorithm.
+
+This is just to help me understand the algorithm.
